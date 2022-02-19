@@ -1,0 +1,148 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: "roboto";
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f2937;
+  padding: 20px 100px 20px 200px;
+}
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 18px;
+  text-decoration: none;
+}
+li a img {
+  width: 50px;
+}
+
+/* navbar section completed */
+
+.header-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px 100px 20px 200px;
+  background-color: #1f2937;
+  padding-bottom: 5em;
+}
+.awesome {
+  font-size: 48px bolder;
+  color: #f9faf8;
+}
+.secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.button1 {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 0.5em 1em;
+}
+.avengersteam {
+  width: 600px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+/* top body part over */
+.assemble {
+  display: flex;
+  align-items: justify;
+  text-align: center;
+  justify-content: space-around;
+  padding: 0 12em 0em 16em;
+}
+.iron-man-image {
+  width: 190px;
+  height: 190px;
+  border: solid 1px beige;
+  border-radius: 10px;
+}
+.captain-america-image {
+  width: 190px;
+  height: 190px;
+  border: solid 1px beige;
+  border-radius: 10px;
+}
+.spider-man-image {
+  width: 190px;
+  height: 190px;
+  border: solid 1px beige;
+  border-radius: 10px;
+}
+.spider-man-text {
+  width: 190px;
+}
+.hulk-image {
+  width: 190px;
+  height: 190px;
+  border: solid 1px beige;
+  border-radius: 10px;
+}
+.avengers-group {
+  text-align: center;
+}
+.favourite {
+  padding: 0.3em 0.3em;
+  font-size: 36px;
+  color: #1f2937;
+}
+
+/* middle body part */
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 3em 6em 3em 15em;
+}
+.quote-text {
+  font-size: 36px;
+}
+.author-name {
+  font-size: 20px;
+  padding-left: 25em;
+  font-weight: 900;
+}
+.footer-body {
+  display: flex;
+  background-color: #3882f6;
+  margin: 6em 8em 6em 10em;
+  padding: 3em;
+  border-radius: 10px;
+}
+.footer-content {
+  padding-left: 8em;
+  color: #f9faf8;
+  font-size: 18px;
+}
+.footer-btn {
+  border: 2.5px solid #f9faf8;
+  padding: 10px 34px;
+  font-size: 16px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 10px;
+  margin-left: 22em;
+  margin-top: 1em;
+}
+footer {
+  background-color: #1f2937;
+  padding: 1.5em;
+  text-align: center;
+  color: #f9faf8;
+}
